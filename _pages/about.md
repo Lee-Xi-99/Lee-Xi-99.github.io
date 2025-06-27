@@ -32,11 +32,25 @@ My research interest includes deep learning, smart materials, and additive manuf
 
 [**Project**](https://doi.org/10.1016/j.measurement.2024.115732)
 </strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Developed a five-axis CNC-driven blade machining platform with low-plasticity ultrasonic rolling strengthening process (URSP).
+- Designed few-shot learning Genetic Bayesian-Back Propagation (GB-BP) network.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automatic detection on wear features of aero-engine honeycomb sealing ring](https://doi.org/10.1016/j.measurement.2025.117138)
+
+Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
+
+[**Project**](https://doi.org/10.1016/j.measurement.2025.117138)
+</strong>
+- Developed a five-axis CNC-driven blade machining platform with low-plasticity ultrasonic rolling strengthening process (URSP).
+- Designed few-shot learning Genetic Bayesian-Back Propagation (GB-BP) network.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2020.09* Bronze Prize (Creative Category) in the final round of the Higher Education Main Track at the Xinjiang Division of 6th China International College Students' Innovation Competition. 
