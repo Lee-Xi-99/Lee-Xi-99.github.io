@@ -29,8 +29,7 @@ I received a Master of Science in Control Science and Engineering from Xinjiang 
 
 **Huilin Li**, Dongbo Wu, Hui Wang
 
-**Project**
-**<a href="/project_ursp/" target="_blank"><strong>🔍 Details</strong></a>**
+<a href="/project_ursp/" target="_blank"><strong>**Project**</strong></a>
 - Developed a five-axis CNC-driven blade machining platform with low-plasticity ultrasonic rolling strengthening process (URSP).
 - Designed few-shot learning Genetic Bayesian-Back Propagation (GB-BP) network.
 </div>
