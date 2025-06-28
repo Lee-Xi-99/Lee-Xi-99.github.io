@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/f7361497-fc97-4dd2-9846-b0ddde37c639)---
 permalink: /
 title: ""
 excerpt: ""
@@ -46,11 +46,38 @@ Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 
 [**Project**](https://doi.org/10.1016/j.measurement.2025.117138)
 </strong>
-- Developed a five-axis CNC-driven blade machining platform with low-plasticity ultrasonic rolling strengthening process (URSP).
-- Designed few-shot learning Genetic Bayesian-Back Propagation (GB-BP) network.
+- Developed a honeycomb sealed ring point cloud acquisition device.
+- Designed a quadratic clustering automated measurement method for the geometric features of wear marks on honeycomb seal rings in aircraft engines.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robotic abrasive cloth flap wheel polishing system and multivariate parameter decision-making method for blade leading and trailing edges]
+
+Dongbo Wu, **Huilin Li**, Hui Wang, Suet To.
+
+[**Project**](Accept)
+</strong>
+- Developed a robotic abrasive cloth flap wheel polishing system.
+- Designed a multivariate parameter decision-making method for blade leading and trailing edges.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-objective optimization and parameter decision-making in the LDED process]
+
+Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang.
+
+[**Project**](Accept)
+</strong>
+- Developed a Direct Energy Deposition (DED) online visual monitor system.
+- Designed an intelligent decision making and multi-objective prediction method for multi-layer multi-channel LDED process parameters.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2020.09* Bronze Prize (Creative Category) in the final round of the Higher Education Main Track at the Xinjiang Division of 6th China International College Students' Innovation Competition. 
