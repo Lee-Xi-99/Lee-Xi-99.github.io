@@ -1,23 +1,23 @@
 ---
 layout: compress
-title: "Robotic Polishing Project"
+title: "Online Visual Monitoring Project"
 permalink: /projects/ded/
 author_profile: true
 ---
 
 <h1>Online Visual Monitoring and Process Parameter Optimization Project</h1>
 
-<p>This project aims to capture the geometric model of the workpiece during processing, enabling real-time assessment of the processing state and accuracy, as well as developing additive manufacturing prototypes that integrate online topology optimization with closed-loop control of process parameters.</p>
+<p>The additive manufacturing process is always characterized by geometrical variations in the printed part, such as over-fusion, lack of fusion, expansion, and contraction, all of which can compromise print quality. Therefore, determining the optimal process parameters is essential to achieving superior surface quality of the workpiece. This project aims to capture the geometric model of the workpiece during processing, enabling real-time assessment of the processing state and accuracy, as well as developing additive manufacturing prototypes that integrate online topology optimization with closed-loop control of process parameters.</p>
 
 <h2>🔧 Experimental Platform</h2>
-<img src="/images/DED.png" alt="Robotic Polishing Machine Setup" style="max-width:50%; height:auto;">
+<img src="/images/DED.png" alt="DED Monitor Machine Setup" style="max-width:50%; height:auto;">
 
 <h2>📊 Key Contributions</h2>
 <ul>
-  <li>Developed a sophisticated robotic blade polishing system.</li>
-  <li>Established a comprehensive process parameter database for robotic blade polishing.</li>
-  <li>Proposed an intelligent multivariate parameter decision-making strategy to improve polishing efficiency.</li>
+  <li>Developed a DED 3D-printing system.</li>
+  <li>Established a visual monitoring system for DED to reconstruct the current workpiece geometric model while enhancing edge detection and point cloud alignment capabilities.</li>
+  <li>Constructed a process parameter database for processing equipment and implemented optimization techniques based on neural networks to enhance process efficiency and output quality.</li>
 </ul>
 
 <h2>📈 Results Snapshot</h2>
-<img src="/images/rcim result.png" alt="Robotic Polishing Results" style="max-width:50%; height:auto;">
+<img src="/images/DED result.png" alt="Robotic Polishing Results" style="max-width:50%; height:auto;">
