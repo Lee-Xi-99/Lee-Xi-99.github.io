@@ -28,7 +28,7 @@ I earned a Master of Science in Control Science and Engineering from Xinjiang Un
 
 **Huilin Li**, Dongbo Wu, Hui Wang
 
-[**Project**](https://doi.org/10.1016/j.measurement.2024.115732)
+**Project**
 - Developed a five-axis CNC-driven blade machining platform with low-plasticity ultrasonic rolling strengthening process (URSP).
 - Designed few-shot learning Genetic Bayesian-Back Propagation (GB-BP) network.
 </div>
@@ -41,7 +41,7 @@ I earned a Master of Science in Control Science and Engineering from Xinjiang Un
 
 Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 
-[**Project**](https://doi.org/10.1016/j.measurement.2025.117138)
+**Project**
 - Developed a honeycomb sealed ring point cloud acquisition device.
 - Designed a quadratic clustering automated measurement method for the geometric features of wear marks on honeycomb seal rings in aircraft engines.
 </div>
@@ -54,7 +54,7 @@ Robotic abrasive cloth flap wheel polishing system and multivariate parameter de
 
 Dongbo Wu, **Huilin Li**, Hui Wang, Suet To.
 
-[**Project**]
+**Project**
 - Developed a robotic abrasive cloth flap wheel polishing system.
 - Designed a multivariate parameter decision-making method for blade leading and trailing edges.
 </div>
@@ -67,7 +67,7 @@ Multi-objective optimization and parameter decision-making in the LDED process (
 
 Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang.
 
-[**Project**]
+**Project**
 - Developed a Direct Energy Deposition (DED) online visual monitor system.
 - Designed an intelligent decision making and multi-objective prediction method for multi-layer multi-channel LDED process parameters.
 </div>
