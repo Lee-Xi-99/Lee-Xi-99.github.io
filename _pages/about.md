@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I earned a Master of Science in Control Science and Engineering from Xinjiang University in 2023 and a Bachelor of Science in Electrical Engineering and Automation from Hainan University in 2018.
-
-My research interest includes deep learning, smart materials, and additive manufacturing. I have published 4 papers. (<a href='https://scholar.google.com/citations?user=MnE2NHgAAAAJ'>).
+I earned a Master of Science in Control Science and Engineering from Xinjiang University in 2023 and a Bachelor of Science in Electrical Engineering and Automation from Hainan University in 2018. My research interest includes deep learning, smart materials, and additive manufacturing. I have published 4 papers. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=MnE2NHgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📝 Publications 
 
@@ -31,7 +29,6 @@ My research interest includes deep learning, smart materials, and additive manuf
 **Huilin Li**, Dongbo Wu, Hui Wang
 
 [**Project**](https://doi.org/10.1016/j.measurement.2024.115732)
-</strong>
 - Developed a five-axis CNC-driven blade machining platform with low-plasticity ultrasonic rolling strengthening process (URSP).
 - Designed few-shot learning Genetic Bayesian-Back Propagation (GB-BP) network.
 </div>
@@ -45,7 +42,6 @@ My research interest includes deep learning, smart materials, and additive manuf
 Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 
 [**Project**](https://doi.org/10.1016/j.measurement.2025.117138)
-</strong>
 - Developed a honeycomb sealed ring point cloud acquisition device.
 - Designed a quadratic clustering automated measurement method for the geometric features of wear marks on honeycomb seal rings in aircraft engines.
 </div>
@@ -54,12 +50,11 @@ Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robotic abrasive cloth flap wheel polishing system and multivariate parameter decision-making method for blade leading and trailing edges]
+Robotic abrasive cloth flap wheel polishing system and multivariate parameter decision-making method for blade leading and trailing edges (Accept)
 
 Dongbo Wu, **Huilin Li**, Hui Wang, Suet To.
 
 [**Project**]
-</strong>
 - Developed a robotic abrasive cloth flap wheel polishing system.
 - Designed a multivariate parameter decision-making method for blade leading and trailing edges.
 </div>
@@ -68,12 +63,11 @@ Dongbo Wu, **Huilin Li**, Hui Wang, Suet To.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Rare Metal Materials and Engineering 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-objective optimization and parameter decision-making in the LDED process]
+Multi-objective optimization and parameter decision-making in the LDED process (Accept)
 
 Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang.
 
 [**Project**]
-</strong>
 - Developed a Direct Energy Deposition (DED) online visual monitor system.
 - Designed an intelligent decision making and multi-objective prediction method for multi-layer multi-channel LDED process parameters.
 </div>
