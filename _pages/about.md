@@ -42,7 +42,7 @@ I received a Master of Science in Control Science and Engineering from Xinjiang 
 
 Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 
-**Project**
+<a href="/projects/ursp/" target="_blank"><strong>**Project**
 - Developed a honeycomb sealed ring point cloud acquisition device.
 - Designed a quadratic clustering automated measurement method for the geometric features of wear marks on honeycomb seal rings in aircraft engines.
 </div>
@@ -55,7 +55,7 @@ Robotic abrasive cloth flap wheel polishing system and multivariate parameter de
 
 Dongbo Wu, **Huilin Li**, Hui Wang, Suet To.
 
-**Project**
+<a href="/projects/polishing/" target="_blank"><strong>**Project**
 - Developed a robotic abrasive cloth flap wheel polishing system.
 - Designed a multivariate parameter decision-making method for blade leading and trailing edges.
 </div>
