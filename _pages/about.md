@@ -42,7 +42,7 @@ I received a Master of Science in Control Science and Engineering from Xinjiang 
 
 Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 
-<a href="/projects/ursp/" target="_blank"><strong>**Project**
+<a href="/projects/laser/" target="_blank"><strong>**Project**
 - Developed a honeycomb sealed ring point cloud acquisition device.
 - Designed a quadratic clustering automated measurement method for the geometric features of wear marks on honeycomb seal rings in aircraft engines.
 </div>
