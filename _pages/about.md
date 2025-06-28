@@ -68,7 +68,7 @@ Multi-objective optimization and parameter decision-making in the LDED process (
 
 Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang.
 
-**Project**
+<a href="/projects/ded/" target="_blank"><strong>**Project**
 - Developed a Direct Energy Deposition (DED) online visual monitor system.
 - Designed an intelligent decision making and multi-objective prediction method for multi-layer multi-channel LDED process parameters.
 </div>
