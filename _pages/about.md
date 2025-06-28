@@ -58,7 +58,7 @@ Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 
 Dongbo Wu, **Huilin Li**, Hui Wang, Suet To.
 
-[**Project**](Accept)
+[**Project**]
 </strong>
 - Developed a robotic abrasive cloth flap wheel polishing system.
 - Designed a multivariate parameter decision-making method for blade leading and trailing edges.
@@ -72,7 +72,7 @@ Dongbo Wu, **Huilin Li**, Hui Wang, Suet To.
 
 Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang.
 
-[**Project**](Accept)
+[**Project**]
 </strong>
 - Developed a Direct Energy Deposition (DED) online visual monitor system.
 - Designed an intelligent decision making and multi-objective prediction method for multi-layer multi-channel LDED process parameters.
