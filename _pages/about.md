@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received a Master of Science in Control Science and Engineering from Xinjiang University in 2023 and a Bachelor of Science in Electrical Engineering and Automation from Hainan University in 2018. My research interest includes **deep learning**, **smart materials**, and **additive manufacturing**. I have authored or co-authored four peer-reviewed publications, primarily in reputable international engineering journals such as **Robotics and Computer-Integrated Manufacturing (IF = 11.4)** and **Measurement (IF = 5.6)**. ( <a href='https://scholar.google.com/citations?user=MnE2NHgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received a Master of Science in Control Science and Engineering from Xinjiang University in 2023 and a Bachelor of Science in Electrical Engineering and Automation from Hainan University in 2018. My research interest includes **deep learning**, **smart materials**, and **additive manufacturing**. I have authored or co-authored four peer-reviewed publications, primarily in reputable international engineering journals such as **Robotics and Computer-Integrated Manufacturing (IF = 11.4)** and **Measurement (IF = 5.6)**. (<a href="https://scholar.google.com/citations?user=MnE2NHgAAAAJ" target="_blank"><img src="https://img.shields.io/badge/citations-Google%20Scholar-9cf?logo=google-scholar&style=flat" alt="Google Scholar citations"></a>).
+
 
 # 📝 Publications 
 
