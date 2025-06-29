@@ -61,7 +61,7 @@ Dongbo Wu, **Huilin Li**, Hui Wang, Suet To.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Rare Metal Materials and Engineering 2025</div><img src='images/DED1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Rare Metal Materials and Engineering 2025</div><img src='images/ded1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-objective optimization and parameter decision-making in the LDED process (Accept)
