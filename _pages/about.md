@@ -22,7 +22,7 @@ I received a Master of Science in Control Science and Engineering from Xinjiang 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement 2025</div><img src='images/ursp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="margin-bottom: 100px;">Measurement 2025</div><img src='images/ursp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Parameters prediction for Low-Plasticity ultrasonic rolling strengthening process of blades based on Few-Shot Genetic Bayesian-Back Propagation intelligent learning](https://doi.org/10.1016/j.measurement.2024.115732)
