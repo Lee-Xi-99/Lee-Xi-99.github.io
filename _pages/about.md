@@ -22,7 +22,7 @@ I received a Master of Science in Control Science and Engineering from Xinjiang 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div style="margin-bottom: 100px;">Measurement 2025</div><img src='images/ursp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="margin-bottom: 200px;">Measurement 2025</div><img src='images/ursp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Parameters prediction for Low-Plasticity ultrasonic rolling strengthening process of blades based on Few-Shot Genetic Bayesian-Back Propagation intelligent learning](https://doi.org/10.1016/j.measurement.2024.115732)
@@ -35,17 +35,7 @@ I received a Master of Science in Control Science and Engineering from Xinjiang 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="position: relative;"><div class='paper-box-image'><div><div style="
-      position: absolute;
-      top: 8px;
-      left: 8px;
-      background-color: #003399;
-      color: white;
-      padding: 4px 10px;
-      font-size: 14px;
-      font-weight: bold;
-      border-radius: 3px;
-      z-index: 10;">Measurement 2025</div><img src='images/laser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="margin-bottom: 20px;">Measurement 2025</div><img src='images/laser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automatic detection on wear features of aero-engine honeycomb sealing ring](https://doi.org/10.1016/j.measurement.2025.117138)
