@@ -35,7 +35,7 @@ I received a Master of Science in Control Science and Engineering from Xinjiang 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div style="
+<div class='paper-box'><div class='paper-box-image' style="position: relative;"><div class='paper-box-image'><div><div style="
       position: absolute;
       top: 8px;
       left: 8px;
