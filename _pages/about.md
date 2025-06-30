@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received a Master of Science in Control Science and Engineering from Xinjiang University in 2023 and a Bachelor of Science in Electrical Engineering and Automation from Hainan University in 2018. My research interest includes **deep learning**, **smart materials**, and **additive manufacturing**. I have authored or co-authored four peer-reviewed publications, primarily in reputable international engineering journals such as ***Robotics and Computer-Integrated Manufacturing* (IF = 11.4)** and ***Measurement* (IF = 5.6)**. (<a href="https://scholar.google.com/citations?user=MnE2NHgAAAAJ" target="_blank"><img src="https://img.shields.io/badge/citations-Google%20Scholar-9cf?logo=google-scholar&style=flat" alt="Google Scholar citations"></a>).
+I received a Master of Science in Control Science and Engineering from Xinjiang University in 2023 and a Bachelor of Science in Electrical Engineering and Automation from Hainan University in 2018. My research interests include **deep learning**, **smart materials**, and **additive manufacturing**. I have authored or co-authored four peer-reviewed publications, primarily in reputable international engineering journals such as ***Robotics and Computer-Integrated Manufacturing* (IF = 11.4)** and ***Measurement* (IF = 5.6)**. (<a href="https://scholar.google.com/citations?user=MnE2NHgAAAAJ" target="_blank"><img src="https://img.shields.io/badge/citations-Google%20Scholar-9cf?logo=google-scholar&style=flat" alt="Google Scholar citations"></a>).
 
 
 # 📝 Publications 
@@ -53,7 +53,7 @@ Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 
 Robotic abrasive cloth flap wheel polishing system and multivariate parameter decision-making method for blade leading and trailing edges (Accept)
 
-Dongbo Wu, **Huilin Li**, Hui Wang, Suet To.
+Dongbo Wu, **Huilin Li**, Hui Wang, Suet To
 
 <a href="/projects/polishing/" target="_blank"><strong>**Project**
 - Developed a robotic abrasive cloth flap wheel polishing system.
@@ -66,11 +66,11 @@ Dongbo Wu, **Huilin Li**, Hui Wang, Suet To.
 
 Intelligent parameter decision-making and multi-objective prediction in multi-layer and multi-pass LDED process (Accept)
 
-Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang.
+Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang
 
 <a href="/projects/ded/" target="_blank"><strong>**Project**
-- Developed a Direct Energy Deposition (DED) online visual monitor system.
-- Designed an intelligent decision making and multi-objective prediction method for multi-layer multi-channel LDED process parameters.
+- Developed a Laser Direct Energy Deposition (LDED) online visual monitor system.
+- Designed an intelligent decision making and multi-objective prediction method for multi-layer multi-pass LDED process parameters.
 </div>
 </div>
 
