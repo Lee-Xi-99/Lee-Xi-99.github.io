@@ -44,7 +44,7 @@ Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 
 <a href="/projects/laser/" target="_blank"><strong>**Project**
 - Developed a honeycomb sealed ring point cloud acquisition device.
-- Designed a quadratic clustering automated measurement method for the geometric features of wear marks on honeycomb seal rings in aircraft engines.
+- Designed an improved automatic multiscale-based peak detection (AMPD) algorithm with a masking mechanism for the geometric features of wear marks on honeycomb seal rings in aircraft engines.
 </div>
 </div>
 
