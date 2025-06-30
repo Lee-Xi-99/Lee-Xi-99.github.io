@@ -69,7 +69,7 @@ Intelligent parameter decision-making and multi-objective prediction in multi-la
 Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang
 
 <a href="/projects/ded/" target="_blank"><strong>**Project**
-- Developed a Laser Direct Energy Deposition (LDED) online visual monitor system.
+- Developed a Laser Direct Energy Deposition (LDED) online visual monitoring system.
 - Designed an intelligent decision making and multi-objective prediction method for multi-layer multi-pass LDED process parameters.
 </div>
 </div>
