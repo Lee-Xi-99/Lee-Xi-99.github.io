@@ -75,7 +75,7 @@ Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang
 </div>
 
 # 🎖 Honors and Awards
-- *2020.09*, Bronze Prize (Creative Category) in the final round of the Higher Education Main Track at the Xinjiang Division of 6th China International College Students' Innovation Competition. 
+- *2020.09*, Bronze Prize in the Creative Category of the Xinjiang Division of the 6th China International College Students' "Internet+" Innovation and Entrepreneurship Competition.
 
 # 📖 Educations
 - *2019.06 - 2023.07*, Xinjiang University. Master of Science in Control Science and Engineering. 
