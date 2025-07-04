@@ -51,7 +51,7 @@ Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2025</div><img src='images/rcim1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Robotic abrasive cloth flap wheel polishing system and multivariate parameter decision-making method for blade leading and trailing edges (Accept)
+[Robotic abrasive cloth flap wheel polishing system and multivariate parameter decision-making method for blade leading and trailing edges](https://doi.org/10.1016/j.rcim.2025.103075)
 
 Dongbo Wu, **Huilin Li**, Hui Wang, Suet To
 
