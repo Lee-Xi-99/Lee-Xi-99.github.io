@@ -22,6 +22,19 @@ I received a master of science in control science and engineering from Xinjiang 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2026</div><img src='images/rcim1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robotic abrasive cloth flap wheel polishing system and multivariate parameter decision-making method for blade leading and trailing edges](https://doi.org/10.1016/j.rcim.2025.103075)
+
+Dongbo Wu, **Huilin Li**, Hui Wang, Suet To
+
+<a href="/projects/polishing/" target="_blank"><strong>**Project**
+- Developed a robotic abrasive cloth flap wheel polishing system.
+- Designed a multivariate parameter decision-making method for blade leading and trailing edges.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement 2025</div><img src='images/ursp1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,19 +61,6 @@ Tianchen Cao, Dongbo Wu, **Huilin Li**, Xueping Liu, Hui Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2026</div><img src='images/rcim1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Robotic abrasive cloth flap wheel polishing system and multivariate parameter decision-making method for blade leading and trailing edges](https://doi.org/10.1016/j.rcim.2025.103075)
-
-Dongbo Wu, **Huilin Li**, Hui Wang, Suet To
-
-<a href="/projects/polishing/" target="_blank"><strong>**Project**
-- Developed a robotic abrasive cloth flap wheel polishing system.
-- Designed a multivariate parameter decision-making method for blade leading and trailing edges.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Intelligent Manufacturing 2025</div><img src='images/jim1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,7 +68,7 @@ Dongbo Wu, **Huilin Li**, Hui Wang, Suet To
 
 Dongbo Wu, Dingshan Deng, **Huilin Li**, Hui Wang, Bing Zhao
 
-<a href="/projects/polishing/" target="_blank"><strong>**Project**
+<a href="/projects/fpi/" target="_blank"><strong>**Project**
 - Developed an AI-based fluorescent penetrant inspection system.
 - Proposed an improved YOLOv8-RN to enable efficient detection of blade surface defects.
 </div>
