@@ -70,7 +70,7 @@ Dongbo Wu, Dingshan Deng, **Huilin Li**, Hui Wang, Bing Zhao
 
 <a href="/projects/polishing/" target="_blank"><strong>**Project**
 - Developed an AI-based fluorescent penetrant inspection system.
-- Proposed an improved YOLOv8-RN to enhance its multi-scale feature detection capability, enabling efficient detection of blade surface defects.
+- Proposed an improved YOLOv8-RN to enable efficient detection of blade surface defects.
 </div>
 </div>
 
