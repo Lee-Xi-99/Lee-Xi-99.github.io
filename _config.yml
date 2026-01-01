@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lee"
-description              : "Control Science and Engineering Master"
+description              : "Bioengineering PhD student"
 repository               : "Lee-Xi-99/Lee-Xi-99.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lee"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Xinjiang University"
-  location         : "China"
+  bio              : "University of Auckland"
+  location         : "New Zealand"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MnE2NHgAAAAJ"
