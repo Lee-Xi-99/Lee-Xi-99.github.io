@@ -87,6 +87,19 @@ Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics & Laser Technology 2026</div><img src='images/ded1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Geometric defect identification in laser deposition manufacturing and defect compensation based on model reconstruction](https://doi.org/10.1016/j.optlastec.2025.114107)
+
+Yaguan Li, Zhenguo Nie, Yunzhi Chen, **Huilin Li**, Tao Wang, Qingxue Huang
+
+<a href="/projects/ded/" target="_blank"><strong>**Project**
+- Developed a Laser Direct Energy Deposition (LDED) online visual monitoring system.
+- Designed an intelligent decision making and multi-objective prediction method for multi-layer multi-pass LDED process parameters.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2020.09*, Bronze Prize in the Creative Category of the Xinjiang Division of the 6th China International College Students' "Internet+" Innovation and Entrepreneurship Competition.
 
