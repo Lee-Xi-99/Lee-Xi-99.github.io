@@ -77,7 +77,7 @@ Dongbo Wu, Dingshan Deng, **Huilin Li**, Hui Wang, Bing Zhao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Rare Metal Materials and Engineering 2025</div><img src='images/ded1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Intelligent parameter decision-making and multi-objective prediction in multi-layer and multi-pass LDED process (Accept)
+[Intelligent parameter decision-making and multi-objective prediction in multi-layer and multi-pass LDED process](http://rmme.ac.cn/rmme/article/abstract/20250065)
 
 Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang
 
