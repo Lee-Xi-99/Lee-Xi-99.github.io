@@ -35,7 +35,7 @@ Dongbo Wu, **Huilin Li**, Hui Wang, Markus Bambach, Suet To, Mohamadreza Afrasia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2026</div><img src='images/rcim1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2026</div><img src='images/geo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Geometric defect identification in laser deposition manufacturing and defect compensation based on model reconstruction](https://doi.org/10.1016/j.optlastec.2025.114107)
