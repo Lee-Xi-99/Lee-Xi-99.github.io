@@ -117,6 +117,7 @@ Yaguan Li, Zhenguo Nie, **Huilin Li**, Tao Wang, Qingxue Huang
 - *2020.09*, Bronze Prize in the Creative Category of the Xinjiang Division of the 6th China International College Students' "Internet+" Innovation and Entrepreneurship Competition.
 
 # 📖 Educations
+- *2026.03 - Now*, University of Auckland. Doctoral Candidate in Bioengineering. 
 - *2019.06 - 2023.07*, Xinjiang University. Master of Science in Control Science and Engineering. 
 - *2014.09 - 2018.07*, Hainan University. Bachelor of Science in Electrical Engineering and Automation. 
 
