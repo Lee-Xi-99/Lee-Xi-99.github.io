@@ -25,6 +25,22 @@ I received a master of science in control science and engineering from Xinjiang 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics & Laser Technology 2026</div><img src='images/geo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Cryogenic minimum quantity lubrication in GH4169 machining: meshfree chip formation simulation and microstructural evidence of improved surface integrity](https://doi.org/10.1016/j.matdes.2026.116526)
+
+Dongbo Wu, **Huilin Li**, Hui Wang, Markus Bambach, Suet To, Mohamadreza Afrasiabi
+
+<a href="/projects/ded/" target="_blank"><strong>**Project**
+- Developed a cryogenic minimum quantity lubrication device for nickel-based superalloys and validated its effectiveness.
+- Simulated the chip morphology and cooling process based on the smoothed particle hydrodynamics model.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2026</div><img src='images/rcim1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics & Laser Technology 2026</div><img src='images/geo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Geometric defect identification in laser deposition manufacturing and defect compensation based on model reconstruction](https://doi.org/10.1016/j.optlastec.2025.114107)
 
 Yaguan Li, Zhenguo Nie, Yunzhi Chen, **Huilin Li**, Tao Wang, Qingxue Huang
