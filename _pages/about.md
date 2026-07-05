@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received a master of science in control science and engineering from Xinjiang University in 2023 and a bachelor of science in electrical engineering and automation from Hainan University in 2018. My research interests include **deep learning**, **CVI**, and **additive manufacturing**. I have authored or co-authored six peer-reviewed publications, such as ***Robotics and Computer-Integrated Manufacturing* (IF = 12.3)**, ***Materials & Design* (IF = 8.2)**, ***Measurement* (IF = 6.1)**. (<a href="https://scholar.google.com/citations?user=MnE2NHgAAAAJ" target="_blank"><img src="https://img.shields.io/badge/citations-Google%20Scholar-9cf?logo=google-scholar&style=flat" alt="Google Scholar citations"></a>).
+I am a PhD candidate at the Auckland Bioengineering Institute, University of Auckland, New Zealand. I received a master of science in control science and engineering from Xinjiang University in 2023 and a bachelor of science in electrical engineering and automation from Hainan University in 2018. My research interests include **deep learning**, **CVI**, and **additive manufacturing**. I have authored or co-authored six peer-reviewed publications, such as ***Robotics and Computer-Integrated Manufacturing* (IF = 12.3)**, ***Materials & Design* (IF = 8.2)**, ***Measurement* (IF = 6.1)**. (<a href="https://scholar.google.com/citations?user=MnE2NHgAAAAJ" target="_blank"><img src="https://img.shields.io/badge/citations-Google%20Scholar-9cf?logo=google-scholar&style=flat" alt="Google Scholar citations"></a>).
 
 
 # 📝 Publications 
