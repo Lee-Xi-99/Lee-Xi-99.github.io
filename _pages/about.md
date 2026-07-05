@@ -35,19 +35,6 @@ Dongbo Wu, **Huilin Li**, Hui Wang, Markus Bambach, Suet To, Mohamadreza Afrasia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2026</div><img src='images/geo1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Geometric defect identification in laser deposition manufacturing and defect compensation based on model reconstruction](https://doi.org/10.1016/j.optlastec.2025.114107)
-
-Yaguan Li, Zhenguo Nie, Yunzhi Chen, **Huilin Li**, Tao Wang, Qingxue Huang
-
-<a href="/projects/ded/" target="_blank"><strong>**Project**
-- Developed a method for the detection and classification of surface defects in Laser Direct Energy Deposition (LDED) printed materials.
-- Realized the deformation correction and grid reconstruction of the model to be printed.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2026</div><img src='images/rcim1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,6 +45,19 @@ Dongbo Wu, **Huilin Li**, Hui Wang, Suet To
 <a href="/projects/polishing/" target="_blank"><strong>**Project**
 - Developed a robotic abrasive cloth flap wheel polishing system.
 - Designed a multivariate parameter decision-making method for blade leading and trailing edges.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics & Laser Technology 2026</div><img src='images/geo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Geometric defect identification in laser deposition manufacturing and defect compensation based on model reconstruction](https://doi.org/10.1016/j.optlastec.2025.114107)
+
+Yaguan Li, Zhenguo Nie, Yunzhi Chen, **Huilin Li**, Tao Wang, Qingxue Huang
+
+<a href="/projects/ded/" target="_blank"><strong>**Project**
+- Developed a method for the detection and classification of surface defects in Laser Direct Energy Deposition (LDED) printed materials.
+- Realized the deformation correction and grid reconstruction of the model to be printed.
 </div>
 </div>
 
