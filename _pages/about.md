@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received a master of science in control science and engineering from Xinjiang University in 2023 and a bachelor of science in electrical engineering and automation from Hainan University in 2018. My research interests include **deep learning**, **CVI**, and **additive manufacturing**. I have authored or co-authored six peer-reviewed publications, such as ***Robotics and Computer-Integrated Manufacturing* (IF = 11.4)**, ***Measurement* (IF = 5.6)**, ***Optics & Laser Technology* (IF = 5.0)**. (<a href="https://scholar.google.com/citations?user=MnE2NHgAAAAJ" target="_blank"><img src="https://img.shields.io/badge/citations-Google%20Scholar-9cf?logo=google-scholar&style=flat" alt="Google Scholar citations"></a>).
+I received a master of science in control science and engineering from Xinjiang University in 2023 and a bachelor of science in electrical engineering and automation from Hainan University in 2018. My research interests include **deep learning**, **CVI**, and **additive manufacturing**. I have authored or co-authored six peer-reviewed publications, such as ***Robotics and Computer-Integrated Manufacturing* (IF = 12.3)**, ***Materials & Design* (IF = 8.2)**, ***Measurement* (IF = 6.1)**. (<a href="https://scholar.google.com/citations?user=MnE2NHgAAAAJ" target="_blank"><img src="https://img.shields.io/badge/citations-Google%20Scholar-9cf?logo=google-scholar&style=flat" alt="Google Scholar citations"></a>).
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics & Laser Technology 2026</div><img src='images/geo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials & Design 2026</div><img src='images/geo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cryogenic minimum quantity lubrication in GH4169 machining: meshfree chip formation simulation and microstructural evidence of improved surface integrity](https://doi.org/10.1016/j.matdes.2026.116526)
@@ -36,9 +36,6 @@ Dongbo Wu, **Huilin Li**, Hui Wang, Markus Bambach, Suet To, Mohamadreza Afrasia
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2026</div><img src='images/rcim1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics & Laser Technology 2026</div><img src='images/geo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Geometric defect identification in laser deposition manufacturing and defect compensation based on model reconstruction](https://doi.org/10.1016/j.optlastec.2025.114107)
